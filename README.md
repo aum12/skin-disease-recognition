@@ -1,5 +1,5 @@
-# skin-disease-recognition
-Convolutional Neural Network trained to classify skin diseases, including skin cancer
+# Skin Disease Recognition
+### Convolutional Neural Network trained to classify skin diseases, including skin cancer
 ----
 Includes:
 - Derm_Image_Scraper_v2: Quick and dirty scraper (but well commented)
